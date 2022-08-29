@@ -6,8 +6,8 @@ This UAC bypass was originally discovered by James Forshaw [(@tiraniddo)](https:
 [https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html](https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers-from.html)
 
 ## Usage
-  SharpElevator.exe [/command:&lt;command to execute>] [/arguments:<command line arguments>] 
-                           [/unelevatedpath:<path>] [/elevatedpath:<path>] [/nowindow] [/newconsole]
+  SharpElevator.exe [/command:&lt;command to execute&gt;] [/arguments:&lt;command line arguments&gt;] 
+                           [/unelevatedpath:&lt;path&gt;] [/elevatedpath:&lt;path&gt;] [/nowindow] [/newconsole]
 
 ### Arguments
     [/command:<command to execute>]        Sets the command to executed in an elevated contex. 
